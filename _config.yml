@@ -3,7 +3,7 @@
 
 title: Edition Template
 url: "https://long-pig.cloudvent.net"
-baseurl: company
+baseurl: /company
 google_analytics_key:
 show_full_navigation: true
 
